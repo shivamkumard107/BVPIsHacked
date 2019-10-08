@@ -1,0 +1,4 @@
+# ninja log v5
+15	336	0	CMakeFiles/vokaturi-lib.dir/src/main/cpp/vokaturi-lib.cpp.o	357fdc3a006c96d0
+15	406	0	CMakeFiles/vokaturi-lib.dir/src/main/cpp/Vokaturi9.c.o	206df004ca39a3d7
+406	747	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libvokaturi-lib.so	fa59847e6fd48b09

@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "/home/shivamkumard107/Documents/BVP/VokaturiAndroid/vokaturi/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/home/shivamkumard107/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/shivamkumard107/Documents/BVP/VokaturiAndroid/vokaturi/.cxx/cmake/debug/x86 --target clean"
+  ],
+  "libraries": {
+    "vokaturi-lib-Debug-x86": {
+      "artifactName": "vokaturi-lib",
+      "buildCommand": "/home/shivamkumard107/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/shivamkumard107/Documents/BVP/VokaturiAndroid/vokaturi/.cxx/cmake/debug/x86 --target vokaturi-lib",
+      "abi": "x86",
+      "output": "/home/shivamkumard107/Documents/BVP/VokaturiAndroid/vokaturi/build/intermediates/cmake/debug/obj/x86/libvokaturi-lib.so"
+    }
+  }
+}

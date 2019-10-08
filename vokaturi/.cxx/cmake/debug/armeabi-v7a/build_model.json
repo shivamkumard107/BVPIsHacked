@@ -1,0 +1,71 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "/home/shivamkumard107/Documents/BVP/VokaturiAndroid",
+      "sdkFolder": "/home/shivamkumard107/Android/Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "ideBuildTargetAbi": "arm64-v8a,armeabi-v7a,armeabi",
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/home/shivamkumard107/Documents/BVP/VokaturiAndroid/vokaturi/build/intermediates",
+      "gradleModulePathName": ":vokaturi",
+      "moduleRootFolder": "/home/shivamkumard107/Documents/BVP/VokaturiAndroid/vokaturi",
+      "makeFile": "/home/shivamkumard107/Documents/BVP/VokaturiAndroid/vokaturi/CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "/home/shivamkumard107/Documents/BVP/VokaturiAndroid/.cxx",
+      "cxxFolder": "/home/shivamkumard107/Documents/BVP/VokaturiAndroid/vokaturi/.cxx",
+      "ndkFolder": "/home/shivamkumard107/Android/Sdk/ndk-bundle",
+      "ndkVersion": "20.0.5594570",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [
+      "-std\u003dc++11"
+    ],
+    "variantName": "debug",
+    "soFolder": "/home/shivamkumard107/Documents/BVP/VokaturiAndroid/vokaturi/build/intermediates/cmake/debug/lib",
+    "objFolder": "/home/shivamkumard107/Documents/BVP/VokaturiAndroid/vokaturi/build/intermediates/cmake/debug/obj",
+    "jsonFolder": "/home/shivamkumard107/Documents/BVP/VokaturiAndroid/vokaturi/.cxx/cmake/debug",
+    "gradleBuildOutputFolder": "/home/shivamkumard107/Documents/BVP/VokaturiAndroid/vokaturi/.cxx/cxx/debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARM64_V8A",
+      "ARMEABI_V7A"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARMEABI_V7A",
+  "abiPlatformVersion": 16,
+  "cxxBuildFolder": "/home/shivamkumard107/Documents/BVP/VokaturiAndroid/vokaturi/.cxx/cmake/debug/armeabi-v7a",
+  "jsonFile": "/home/shivamkumard107/Documents/BVP/VokaturiAndroid/vokaturi/.cxx/cmake/debug/armeabi-v7a/android_gradle_build.json",
+  "gradleBuildOutputFolder": "/home/shivamkumard107/Documents/BVP/VokaturiAndroid/vokaturi/.cxx/cxx/debug/armeabi-v7a",
+  "objFolder": "/home/shivamkumard107/Documents/BVP/VokaturiAndroid/vokaturi/build/intermediates/cmake/debug/obj/armeabi-v7a",
+  "buildCommandFile": "/home/shivamkumard107/Documents/BVP/VokaturiAndroid/vokaturi/.cxx/cmake/debug/armeabi-v7a/build_command.txt",
+  "buildOutputFile": "/home/shivamkumard107/Documents/BVP/VokaturiAndroid/vokaturi/.cxx/cmake/debug/armeabi-v7a/build_output.txt",
+  "modelOutputFile": "/home/shivamkumard107/Documents/BVP/VokaturiAndroid/vokaturi/.cxx/cmake/debug/armeabi-v7a/build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "/home/shivamkumard107/Documents/BVP/VokaturiAndroid/vokaturi/.cxx/cxx/debug/armeabi-v7a/CMakeLists.txt",
+    "toolchainWrapperFile": "/home/shivamkumard107/Documents/BVP/VokaturiAndroid/vokaturi/.cxx/cxx/debug/armeabi-v7a/android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "/home/shivamkumard107/Documents/BVP/VokaturiAndroid/vokaturi/.cxx/cxx/debug/armeabi-v7a/build_generation_state.json",
+    "cacheKeyFile": "/home/shivamkumard107/Documents/BVP/VokaturiAndroid/vokaturi/.cxx/cxx/debug/armeabi-v7a/compiler_cache_key.json",
+    "compilerCacheUseFile": "/home/shivamkumard107/Documents/BVP/VokaturiAndroid/vokaturi/.cxx/cxx/debug/armeabi-v7a/compiler_cache_use.json",
+    "compilerCacheWriteFile": "/home/shivamkumard107/Documents/BVP/VokaturiAndroid/vokaturi/.cxx/cxx/debug/armeabi-v7a/compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "/home/shivamkumard107/Documents/BVP/VokaturiAndroid/vokaturi/.cxx/cxx/debug/armeabi-v7a/compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "/home/shivamkumard107/Documents/BVP/VokaturiAndroid/vokaturi/.cxx/cmake/debug/armeabi-v7a/json_generation_record.json",
+  "compileCommandsJsonFile": "/home/shivamkumard107/Documents/BVP/VokaturiAndroid/vokaturi/.cxx/cmake/debug/armeabi-v7a/compile_commands.json"
+}

@@ -1,0 +1,48 @@
+
+{
+	"buildFiles" : 
+	[
+		"/home/shivamkumard107/Documents/BVP/VokaturiAndroid/vokaturi/CMakeLists.txt"
+	],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"/home/shivamkumard107/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/shivamkumard107/Documents/BVP/VokaturiAndroid/vokaturi/.cxx/cmake/debug/armeabi-v7a --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"vokaturi-lib-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "vokaturi-lib",
+			"buildCommand" : "/home/shivamkumard107/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/shivamkumard107/Documents/BVP/VokaturiAndroid/vokaturi/.cxx/cmake/debug/armeabi-v7a --target vokaturi-lib",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi16 --gcc-toolchain=/home/shivamkumard107/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/shivamkumard107/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dvokaturi_lib_EXPORTS -I../../../../src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -std=c++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/shivamkumard107/Documents/BVP/VokaturiAndroid/vokaturi/src/main/cpp/vokaturi-lib.cpp",
+					"workingDirectory" : "/home/shivamkumard107/Documents/BVP/VokaturiAndroid/vokaturi/.cxx/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi16 --gcc-toolchain=/home/shivamkumard107/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/shivamkumard107/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dvokaturi_lib_EXPORTS -I../../../../src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "/home/shivamkumard107/Documents/BVP/VokaturiAndroid/vokaturi/src/main/cpp/Vokaturi9.c",
+					"workingDirectory" : "/home/shivamkumard107/Documents/BVP/VokaturiAndroid/vokaturi/.cxx/cmake/debug/armeabi-v7a"
+				}
+			],
+			"output" : "/home/shivamkumard107/Documents/BVP/VokaturiAndroid/vokaturi/build/intermediates/cmake/debug/obj/armeabi-v7a/libvokaturi-lib.so",
+			"toolchain" : "14222841144424365626"
+		}
+	},
+	"toolchains" : 
+	{
+		"14222841144424365626" : 
+		{
+			"cCompilerExecutable" : "/home/shivamkumard107/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/home/shivamkumard107/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+		}
+	}
+}
